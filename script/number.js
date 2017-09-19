@@ -4,7 +4,7 @@ window.onload = function() {
 
 function nota() {
 
-    var nota  = 10;
+    var nota  = 20;
     console.log(nota);
 
     nota = 10.2;
